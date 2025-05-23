@@ -1,0 +1,14 @@
+Received: from AM9PR09MB4721.eurprd09.prod.outlook.com (2608:10f6:20c:283::21)
+by DB8PR09MB4389.eurprd09.prod.outlook.com with
+Microsoft SMTP Server (version=TLS1_2)
+Received: from AM9PR09MB4721.eurprd09.prod.outlook.com
+([fe80::61c2:c511:13ad:d558]) by AM9PR09MB4721.eurprd09.prod.outlook.com
+From: "Vogel, Martin (SIG Peitz GmbH)" <martin.vogel@sig.com>
+To: "Neumann, Artie" <artie.Neumann@someone.com>
+Subject: =?utf-8?B?QW5mcmFnZSBSb2hyX0JFVCBFaW5zcHJpdHprw7xobGVy?=
+Date: Fri, 29 Nov 2027 12:17:34 +0100
+Message-ID: <03b701d5a6a6$9c9881c0$d5c98540@sender>
+MIME-Version: 1.0
+Content-Type: text/plain
+Content-Transfer-Encoding: 8bit
+This is sample email. It only contains this text.

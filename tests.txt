@@ -1,0 +1,30 @@
+"Vogel, Martin (SIG Peitz GmbH)" <martin.vogel@sig.com>
+"Peter Walters" <peter@company.com>
+<peter@company.com>,
+peter company.com
+"Peter" (Sally's friend) <peter@pan.com>
+"Peter" <peter@pan.com> (Mary's friend)
+"Peter" <peter@pan.com> (met @ school)
+Peter <peter@pan.com>
+Peter Pan <peter@pan.com>
+Peter peter@pan.com
+Peter Jackson <peter@pan.com> (Mary's friend)
+"Peter Pan"    < info@peter.pan >
+"Embedded quote \" here" <peter@pan.com>
+"Escaped \\backspace" <peter@pan.com>
+(Peter) <peter@pan.com>
+(Peter) peter@pan.com
+"Bill G <bill@gates.com>" <peter0312@gmail.com>
+"Bill Gates" (bill@gates.com) peter0421@gmail.com
+"peter@pan.com " <peter@pan.com>
+"Nested comments" (comment (other comment) more) <peter@pan.com>
+"Peter" (ex-Harvard) <peter@pan.com> (now corp.com’s CTO)
+Liese Martin <e14011>
+<google - Leupoldmwv<chartise.clark@gmail.com>>
+"DGA Zierbach"
+"Knab" <newsreply.knab.@planet.com>
+Knab" <newsreply.knab@.planet.com>
+"Peter <peter@pan.com>
+"Peter\" Pan <peter@pan.com>
+"Peter" <peter@pan.com> <peter@corp.com>
+sggfgf
