@@ -14,3 +14,6 @@ you can run and validate an .eml file or you can run tests.
 This is simple implementation, that does not gurantee that will work 100%, with all possible way to detect display name and email.
 In this small project for detection am using regex, but for more accurate implementation it suggest a state parser following 
 the rfc 5322 rules.
+
+HORNET SECURITY
+HORNETSECURITY
