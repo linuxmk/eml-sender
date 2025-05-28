@@ -15,5 +15,3 @@ This is simple implementation, that does not gurantee that will work 100%, with 
 In this small project for detection am using regex, but for more accurate implementation it suggest a state parser following 
 the rfc 5322 rules.
 
-HORNET SECURITY
-HORNETSECURITY
